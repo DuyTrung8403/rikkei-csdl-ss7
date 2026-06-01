@@ -1,1 +1,0 @@
-# rikkei-csdl-ss7
